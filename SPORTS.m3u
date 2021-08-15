@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="LIGA CHAMPIONS 1" tvg-id="269" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/live_streaming_champions_league.png",LIGA CHAMPIONS 1
+https://indotv.tech/m3u8sd/usee-champion1-indonesia.m3u8
+#EXTINF:-1 tvg-name="LIGA CHAMPIONS 1 (BACKUP)" tvg-id="270" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/live_streaming_champions_league.png",LIGA CHAMPIONS 1 (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-champion1-People+62.m3u8
+#EXTINF:-1 tvg-name="LIGA CHAMPIONS 2" tvg-id="271" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/live-streaming-champions-league.png",LIGA CHAMPIONS 2
+https://indotv.tech/m3u8sd/usee-champion2-indonesia.m3u8
+#EXTINF:-1 tvg-name="LIGA CHAMPIONS 2 (BACKUP)" tvg-id="272" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/live-streaming-champions-league.png",LIGA CHAMPIONS 2 (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-champion2-People+62.m3u8
+#EXTINF:-1 tvg-name="LIGA EROPA/UEFA 1" tvg-id="273" group-title="NEW SPORTS" tvg-logo="Logo",LIGA EROPA/UEFA 1
+https://indotv.tech/m3u8sd/usee-useesport-indonesia.m3u8
+#EXTINF:-1 tvg-name="LIGA EROPA/UEFA 1 (BACKUP)" tvg-id="274" group-title="NEW SPORTS" tvg-logo="Logo",LIGA EROPA/UEFA 1 (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-useesport-People+62.m3u8
+#EXTINF:-1 tvg-name="LIGA EROPA/UEFA 2" tvg-id="275" group-title="NEW SPORTS" tvg-logo="Logo",LIGA EROPA/UEFA 2
+https://indotv.tech/m3u8sd/usee-useesports2-indonesia.m3u8
+#EXTINF:-1 tvg-name="LIGA EROPA/UEFA 2 (BACKUP)" tvg-id="276" group-title="NEW SPORTS" tvg-logo="Logo",LIGA EROPA/UEFA 2 (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-useesports2-People+62.m3u8
+#EXTINF:-1 tvg-name="LIGA EROPA/UEFA 3" tvg-id="277" group-title="NEW SPORTS" tvg-logo="Logo",LIGA EROPA/UEFA 3
+https://indotv.tech/m3u8sd/usee-champion1-indonesia.m3u8
+#EXTINF:-1 tvg-name="LIGA EROPA/UEFA 3 (BACKUP)" tvg-id="278" group-title="NEW SPORTS" tvg-logo="Logo",LIGA EROPA/UEFA 3 (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-champion1-People+62.m3u8
+#EXTINF:-1 tvg-name="LIGA EROPA/UEFA 4" tvg-id="279" group-title="NEW SPORTS" tvg-logo="Logo",LIGA EROPA/UEFA 4
+https://indotv.tech/m3u8sd/usee-champion2-indonesia.m3u8
+#EXTINF:-1 tvg-name="LIGA EROPA/UEFA 4 (BACKUP)" tvg-id="280" group-title="NEW SPORTS" tvg-logo="Logo",LIGA EROPA/UEFA 4 (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-champion2-People+62.m3u8
+#EXTINF:-1 tvg-name="RACING" tvg-id="281" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%207%20online%20indonesia.png",RACING
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:-1 tvg-name="REDBULL TV" tvg-id="282" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20full%20channel.png",REDBULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-name="REDBULL TV (HD)" tvg-id="283" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20full%20channel.png",REDBULL TV (HD)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-name="TVRI SPORTS" tvg-id="284" group-title="NEW SPORTS" tvg-logo="Logo",TVRI SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-name="TENNIS PLUS" tvg-id="285" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20malaysia%20semua%20saluran.png",TENNIS PLUS
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-name="STADIUM (HD)" tvg-id="286" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20dan%20malaysia.png",STADIUM (HD)
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-name="STADIUM" tvg-id="287" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20dan%20malaysia.png",STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS AU" tvg-id="288" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS AU
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-id="289" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS 1
+https://indotv.tech/m3u8sd/usee-foxsport1-indonesia.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 1 (BACKUP)" tvg-id="290" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS 1 (BACKUP)
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 1 (BACKUP 2)" tvg-id="291" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS 1 (BACKUP 2)
+https://tvonlineindonesia.xyz/m3u8/usee-foxsport1-People+62.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-id="292" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS 2
+https://indotv.tech/m3u8sd/usee-foxsport2-indonesia.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 2 (BACKUP)" tvg-id="293" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS 2 (BACKUP)
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 2 (BACKUP 2)" tvg-id="294" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS 2 (BACKUP 2)
+https://tvonlineindonesia.xyz/m3u8/usee-foxsport2-People+62.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 3" tvg-id="295" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS 3
+https://indotv.tech/m3u8sd/usee-foxsport3-indonesia.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 3 (BACKUP)" tvg-id="296" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS 3 (BACKUP)
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 3 (BACKUP 2)" tvg-id="297" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20malaysia.png",FOX SPORTS 3 (BACKUP 2)
+https://tvonlineindonesia.xyz/m3u8/usee-foxsport3-People+62.m3u8
+#EXTINF:-1 tvg-name="NBA" tvg-id="298" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/nonton-nba-basketball.png",NBA
+https://indotv.tech/m3u8sd/usee-nba-indonesia.m3u8
+#EXTINF:-1 tvg-name="NBA (BACKUP)" tvg-id="299" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/nonton-nba-basketball.png",NBA (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-nba-People+62.m3u8
+#EXTINF:-1 tvg-name="GOLF" tvg-id="300" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/nonton_sctv-online.png",GOLF
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="GOLF (BACKUP)" tvg-id="301" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/nonton_sctv-online.png",GOLF (BACKUP)
+https://indotv.tech/m3u8sd/usee-golfplus-indonesia.m3u8
+#EXTINF:-1 tvg-name="SUPER YACHT" tvg-id="302" group-title="NEW SPORTS" tvg-logo="Logo",SUPER YACHT
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE TV (HD)" tvg-id="303" group-title="NEW SPORTS" tvg-logo="Logo",WWE TV (HD)
+https://www.livedoomovie.com/02_WWE_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="VIASAT SPORT" tvg-id="304" group-title="NEW SPORTS" tvg-logo="Logo",VIASAT SPORT
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-name="TRUE SPORTS 2 HD" tvg-id="305" group-title="NEW SPORTS" tvg-logo="Logo",TRUE SPORTS 2 HD
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-name="TRUE SPORTS 5 HD" tvg-id="306" group-title="NEW SPORTS" tvg-logo="Logo",TRUE SPORTS 5 HD
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-name="TRUE SPORTS 6 HD" tvg-id="307" group-title="NEW SPORTS" tvg-logo="Logo",TRUE SPORTS 6 HD
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-name="TRUE SPORTS 7 HD" tvg-id="308" group-title="NEW SPORTS" tvg-logo="Logo",TRUE SPORTS 7 HD
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS NEWS" tvg-id="309" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20indonesia%20free.png",FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-name="FLOW SPORTS" tvg-id="310" group-title="NEW SPORTS" tvg-logo="Logo",FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 tvg-name="SPORT MAX" tvg-id="311" group-title="NEW SPORTS" tvg-logo="Logo",SPORT MAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 tvg-name="UFC " tvg-id="312" group-title="NEW SPORTS" tvg-logo="Logo",UFC 
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 tvg-name="KOK" tvg-id="313" group-title="NEW SPORTS" tvg-logo="Logo",KOK
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-name="EUROSPORTS 1" tvg-id="314" group-title="NEW SPORTS" tvg-logo="Logo",EUROSPORTS 1
+http://5.135.92.133:52841/out/u/509_1.m3u8
+#EXTINF:-1 tvg-name="DUBAI RACING" tvg-id="315" group-title="NEW SPORTS" tvg-logo="Logo",DUBAI RACING
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-name="SPORT ONE" tvg-id="316" group-title="NEW SPORTS" tvg-logo="Logo",SPORT ONE
+http://thepwfamily.com/stream/sportone
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-id="317" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/free_singapore_online_tv.png",BEIN SPORTS 1
+https://indotv.tech/m3u8sd/usee-bein1-indonesia.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 (BACKUP)" tvg-id="318" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/free_singapore_online_tv.png",BEIN SPORTS 1 (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-bein1-People+62.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 (BACKUP 2)" tvg-id="319" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/free_singapore_online_tv.png",BEIN SPORTS 1 (BACKUP 2)
+https://tvonlineindonesia.xyz/m3u8/usee-bein1-People+62.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-id="320" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/watch_singapore_malaysia_indonesia_online_tv.png",BEIN SPORTS 2
+https://indotv.tech/m3u8sd/usee-bein2-indonesia.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 (BACKUP))" tvg-id="321" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/watch_singapore_malaysia_indonesia_online_tv.png",BEIN SPORTS 2 (BACKUP))
+https://tvonlineindonesia.xyz/m3u8/usee-bein2-People+62.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 (BACKUP 2)" tvg-id="322" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/watch_singapore_malaysia_indonesia_online_tv.png",BEIN SPORTS 2 (BACKUP 2)
+https://tvonlineindonesia.xyz/m3u8/usee-bein2-People+62.m3u8
+#EXTINF:-1 tvg-name="USEE SPORTS 1" tvg-id="323" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/nonton_shopee-liga-1.png",USEE SPORTS 1
+https://indotv.tech/m3u8sd/usee-useesport-indonesia.m3u8
+#EXTINF:-1 tvg-name="USEE SPORTS 1 (BACKUP)" tvg-id="324" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/nonton_shopee-liga-1.png",USEE SPORTS 1 (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-useesport-People+62.m3u8
+#EXTINF:-1 tvg-name="USEE SPORTS 2" tvg-id="325" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/nonton_shopee-liga-1.png",USEE SPORTS 2
+https://indotv.tech/m3u8sd/usee-useesports2-indonesia.m3u8
+#EXTINF:-1 tvg-name="USEE SPORTS 2 (BACKUP)" tvg-id="326" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/nonton_shopee-liga-1.png",USEE SPORTS 2 (BACKUP)
+https://tvonlineindonesia.xyz/m3u8/usee-useesports2-People+62.m3u8
+#EXTINF:-1 tvg-name="UNI SPORTS" tvg-id="327" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20malaysia%20programme.png",UNI SPORTS
+http://unisportslive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1 tvg-name="HUNT CHANNEL" tvg-id="328" group-title="NEW SPORTS" tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv%20malaysia%20streaming.png",HUNT CHANNEL
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-name="ALKASS 1" tvg-id="329" group-title="NEW SPORTS" tvg-logo="Logo",ALKASS 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-name="ALKASS 2" tvg-id="330" group-title="NEW SPORTS" tvg-logo="Logo",ALKASS 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-name="ALKASS 3" tvg-id="331" group-title="NEW SPORTS" tvg-logo="Logo",ALKASS 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-name="ALKASS 4" tvg-id="332" group-title="NEW SPORTS" tvg-logo="",ALKASS 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-name="ALKASS 5" tvg-id="333" group-title="NEW SPORTS" tvg-logo="",ALKASS 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
