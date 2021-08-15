@@ -129,3 +129,9 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-name="ALKASS 5" tvg-id="333" group-title="NEW SPORTS" tvg-logo="",ALKASS 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000 group-title="NEW SPORTS" tvg-name="FOR SPORT 1 BARU"
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000 group-title="NEW SPORTS" tvg-name="FOR SPORT 2 BARU"
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000 group-title="NEW SPORTS" tvg-name="FOR SPORT 3 BARU"
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
