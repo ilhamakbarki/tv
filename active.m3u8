@@ -1,0 +1,521 @@
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/flix.png",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/prive.png",&Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ALL SPORT",@ytson1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="ALL SPORT",@YTSON2HD
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://codaytv.eu/coday.jpg",[CODAY] &FLIX _GROUP
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://codaytv.eu/coday.jpg",[CODAY] &PRIVE _GROUP
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZMhxlBLkvFjPT9JwTJDQDP03hGo=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/1cfec2.png",[CODAY] BeritaSatu _VIDIO
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://codaytv.eu/coday.jpg",[CODAY] FOX LIFE HD _VN
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qUUDKcQCDBOzImtqFHk7Lm5EA3A=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg",[CODAY] iNews _VIDIO
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://codaytv.eu/coday.jpg",[CODAY] MOVIE _GROUP
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/PeY4anwGkSi9JDan1vs0blqLiuc=/640x360/filters:quality(90):strip_icc()/vidio-media-production/uploads/livestreaming/schedule/thumbnail/895929/cd84f0.jpg",[CODAY] TVRI _VIDIO
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://codaytv.eu/coday.jpg",[CODAY] ZEE CAFE _GROUP
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://codaytv.eu/coday.jpg",[CODAY] ZEE CLASSIC HD _GROUP
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Adventure sport
+https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 group-title="ALL SPORT",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13",AlQuran Kareem
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13",Antara _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d210fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png",ANTV _DENS
+http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/gzP8brf/arirang-korea.jpg",ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/gzP8brf/arirang-korea.jpg",ARIRANG
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/gzP8brf/arirang-korea.jpg",ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_arirang_big.png",Arirang _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="Astro Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png",Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="Astro Malaysia" tvg-logo="https://i.ytimg.com/vi/Qslv31G_m8A/maxresdefault.jpg",Astro Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",Astrosp2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="ALL SPORT",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/PxJ7W7ZD/unnamed-2.png",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8?checkedby
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13",Bali TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="ALL SPORT",BEKsport
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13",Berita Satu _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="LOCAL" tvg-logo="http://202.74.236.189/~uzbwkzam/img/bsworld.png",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLLwwdCuMg1KDk4tMoWdCQiYWO2JfJBcalfe7dAfjwUoq1oa2C",BIKINI NETWORK
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/hoxvBkF.png",BS Asahi (New!)
+http://203.162.235.41:16914
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/5TaUGiC.png",BS Fuji (New!)
+http://203.162.235.41:16911
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/F8vUpjV.png",BS Japan (New!)
+http://203.162.235.41:16915
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/UIWO2Jp.png",BS NTV (New!)
+http://203.162.235.41:16912
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/dJhRgYZ/bstbs.jpg",BSTBS
+http://203.162.235.41:16913
+#EXTINF:-1 group-title="SPORTS",canal_plus_sport
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/4mcnxmy/cbs.jpg",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/4mcnxmy/cbs.jpg",CBS 1
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/4mcnxmy/cbs.jpg",CBS 2
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/4mcnxmy/cbs.jpg",CBS 3
+http://cbs-live.gscdn.com:80/cbs-live//cbs-live.stream/chunklist_w203939631.m3u8
+#EXTINF:-1 group-title="MOVIES",CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_cctv4_big1.png?v=2.0.0.13",CCTV4 _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/5cLFFbF/cgntv.gif",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/nR20KJX/cgn.jpg",CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13",CGTN Documentary _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13",Chinese Drama _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13",Daai TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd47552940fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/4dnxrHBj/DD-Sports.png",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="ALL SPORT",ÐšÐ¢Ð Ðš Sport
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Dubai HorseRacing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/HkCjVxk7/5ff54764258573-Y3-Jvc-Cwx-Mj-A4-LDk0-Niwz-NDYs-MTQ.jpg",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/BQFC1M27/d9ef18eb544187cf05ce58ad3e2a4db1.png",Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/BQFC1M27/d9ef18eb544187cf05ce58ad3e2a4db1.png",Dubai Sports 2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/BQFC1M27/d9ef18eb544187cf05ce58ad3e2a4db1.png",Dubai Sports 3 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13",DW (English) _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/7GqYw4p/ebs-2.jpg",EBS +2
+http://ebsonair.ebs.co.kr:80/plus2tablet500k//tablet500k/chunklist_w997639298.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/7GqYw4p/ebs-2.jpg",EBS +2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/zFMCbv9/ebs2.png",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/W0RJZg3/ebs.png",EBS e 1
+http://ebsonair.ebs.co.kr:80/plus3familypc/familypc1m/chunklist_w1014165602.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/zFMCbv9/ebs2.png",EBS e 2
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/PFqNjqZ/ebsi.jpg",EBS i
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/PFqNjqZ/ebsi.jpg",EBS i TV 9
+http://ebsonair.ebs.co.kr:80/plus1tablet500k//tablet500k/chunklist_w778673124.m3u8
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",EdgeSport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",eleven_sports_2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Esport Club
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8?checkedby
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13",Euronews _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/vH5WmDdp/Canal-Extremadura-Horizontal-2016.png",Extremadura TV
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png",Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ALL SPORT",FOOTBALL TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://kamiselaluada.com/img/foxlife.png",FOX LIFE (VN)
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png",FOX SPORTS 1 TRUE
+https://chostv.mobie.in/choos/sports1/foxsports1.m3u8
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png",FOX SPORTS 2 TRUE
+https://chostv.mobie.in/choos/sports1/foxsports2.m3u8
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png",FOX SPORTS 3 TRUE
+https://chostv.mobie.in/choos/sports1/foxsports3.m3u8
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",FoxSport News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13",France 24 _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/fuwPytF.png",Fuji TV (New!)
+http://203.162.235.41:16904
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",Golf Channel HD
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/VjxNRHx/gstv.jpg",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png",Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/Es2bzNQ.png",Gunma TV (New!)
+https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg",HBO Malay
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://1.bp.blogspot.com/-cUb_9mqxSfs/X0W_iTV4kZI/AAAAAAAAAAw/-k6yGAfoObwp0tioI2TZVuAKK_eYeOLOwCLcBGAsYHQ/s512/hd.jpg",HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Knowledge",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_idx_big.png",IDX _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 10
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_261020_ikatan_cinta_eps_10/_/sa_hls/rctiplus_261020_ikatan_cinta_eps_10-avc1_1367000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 11
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_271020_ikatan_cinta_11_12/_/sa_hls/rctiplus_271020_ikatan_cinta_11_12-avc1_1166000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 1-2
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_201020_ikatan_cinta_eps_1_2/_/sa_hls/rctiplus_201020_ikatan_cinta_eps_1_2-avc1_1373000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 12-13
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_eps12/_/sa_hls/ikatan_cinta_eps12-avc1_1345000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 136-137
+https://vcdn1.rctiplus.id/vod/eds/250121_ikatan_cinta_136_137/_/sa_hls/250121_ikatan_cinta_136_137-avc1_1159000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 138
+https://vcdn1.rctiplus.id/vod/eds/260121_ikatan_cinta_138/_/sa_hls/260121_ikatan_cinta_138-avc1_1207000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 14
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e14/_/sa_hls/ikatan_cinta_e14-avc1_1144000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 146-147
+https://vcdn.rctiplus.id/vod/eds/010221_ic_146_147/_/sa_hls/010221_ic_146_147-avc1_1180000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 148
+https://vcdn.rctiplus.id/vod/eds/020221_ic_148/_/sa_hls/020221_ic_148-avc1_1162000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 149
+https://vcdn.rctiplus.id/vod/eds/ikatan_cinta_e149/_/sa_hls/ikatan_cinta_e149-avc1_1158000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 150-151
+https://vcdn.rctiplus.id/vod/eds/ikatan_cinta_e150_151/_/sa_hls/ikatan_cinta_e150_151-avc1_1125000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 15-16
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e15_16/_/sa_hls/ikatan_cinta_e15_16-avc1_1161000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 152
+https://vcdn.rctiplus.id/vod/eds/050221_ikatan_cinta_152/_/sa_hls/050221_ikatan_cinta_152-avc1_1136000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 153-154
+https://vcdn.rctiplus.id/vod/eds/060221_ic_153_154/_/sa_hls/060221_ic_153_154-avc1_1269000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 155
+https://vcdn.rctiplus.id/vod/eds/rctiplus_070221_ikatan_cinta_eps_155_comp/_/sa_hls/rctiplus_070221_ikatan_cinta_eps_155_comp-avc1_1581000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 156
+https://vcdn.rctiplus.id/vod/eds/080221_ikatan_cinta_156/_/sa_hls/080221_ikatan_cinta_156-avc1_1074000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 157-158
+https://vcdn.rctiplus.id/vod/eds/090221_ikatan_cinta_157_158/_/sa_hls/090221_ikatan_cinta_157_158-avc1_1247000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 17
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_311020_ikatan_cinta_eps_17/_/sa_hls/rctiplus_311020_ikatan_cinta_eps_17-avc1_1399000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 18
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_eps_18/_/sa_hls/ikatan_cinta_eps_18-avc1_1273000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 20-21
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_031120_ikatan_cinta_eps_20_21/_/sa_hls/rctiplus_031120_ikatan_cinta_eps_20_21-avc1_1553000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 22
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e22/_/sa_hls/ikatan_cinta_e22-avc1_1254000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 23-24
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_051120_ikatan_cinta_eps_23_24/_/sa_hls/rctiplus_051120_ikatan_cinta_eps_23_24-avc1_1289000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 25
+https://vcdn1.rctiplus.id/vod/eds/061120_ic_eps_25/_/sa_hls/061120_ic_eps_25-avc1_1237000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 26-27
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_071120_ikatan_cinta_eps_26_27/_/sa_hls/rctiplus_071120_ikatan_cinta_eps_26_27-avc1_1174000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 28
+https://vcdn1.rctiplus.id/vod/eds/101120_ic_eps_28_rev3/_/sa_hls/101120_ic_eps_28_rev3-avc1_1084000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 29
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_091120_ikatan_cinta_eps_29/_/sa_hls/rctiplus_091120_ikatan_cinta_eps_29-avc1_1504000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 3
+https://vcdn1.rctiplus.id/vod/eds/rev_ikatan_cinta_e03/_/sa_hls/rev_ikatan_cinta_e03-avc1_1263000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 30-31
+https://vcdn1.rctiplus.id/vod/eds/101120_ic_eps_30_31/_/sa_hls/101120_ic_eps_30_31-avc1_1269000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 32
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e32/_/sa_hls/ikatan_cinta_e32-avc1_1279000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 33-34
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_121120_ikatan_cinta_eps_33_34/_/sa_hls/rctiplus_121120_ikatan_cinta_eps_33_34-avc1_1220000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 35
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_131120_ikatan_cinta_eps_35/_/sa_hls/rctiplus_131120_ikatan_cinta_eps_35-avc1_1299000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 36-37
+https://vcdn1.rctiplus.id/vod/eds/141120_ic_eps_36_37/_/sa_hls/141120_ic_eps_36_37-avc1_1170000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 38
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_151120_ic_eps_38/_/sa_hls/rctiplus_151120_ic_eps_38-avc1_1361000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 39
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_161120_ikatan_cinta_eps_39/_/sa_hls/rctiplus_161120_ikatan_cinta_eps_39-avc1_1238000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 40-41
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_171120_ikatan_cinta_eps_40_41/_/sa_hls/rctiplus_171120_ikatan_cinta_eps_40_41-avc1_1410000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 42
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_181120_ikatan_cinta_eps_42/_/sa_hls/rctiplus_181120_ikatan_cinta_eps_42-avc1_1251000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 43-44
+https://vcdn1.rctiplus.id/vod/eds/08_ikatan_cinta_e43_44/_/sa_hls/08_ikatan_cinta_e43_44-avc1_1229000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 45
+https://vcdn1.rctiplus.id/vod/eds/201120_ic_ep_45/_/sa_hls/201120_ic_ep_45-avc1_1234000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 4-5
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_221020_ikatan_cinta_eps_04_05/_/sa_hls/rctiplus_221020_ikatan_cinta_eps_04_05-avc1_1335000=2-mp4a_128409_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 46-47
+https://vcdn1.rctiplus.id/vod/eds/2111_revikatancinta/_/sa_hls/2111_revikatancinta-avc1_1250000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 48
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_221120_ikatan_cinta_eps_48/_/sa_hls/rctiplus_221120_ikatan_cinta_eps_48-avc1_1193000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 49
+https://vcdn1.rctiplus.id/vod/eds/231120_ic_ep_49/_/sa_hls/231120_ic_ep_49-avc1_1161000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 50
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_241120_ikatan_cinta_50/_/sa_hls/rctiplus_241120_ikatan_cinta_50-avc1_1009000=2-mp4a_128406_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 51-52
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_251120_ikatancinta_51_52/_/sa_hls/rctiplus_251120_ikatancinta_51_52-avc1_1174000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 53
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_261120_ikatan_cinta_eps_53_comp/_/sa_hls/rctiplus_261120_ikatan_cinta_eps_53_comp-avc1_1520000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 54-55
+https://vcdn1.rctiplus.id/vod/eds/2711_ikatancinta_54_55/_/sa_hls/2711_ikatancinta_54_55-avc1_1189000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 56
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_281120_ikatan_cinta_eps_56/_/sa_hls/rctiplus_281120_ikatan_cinta_eps_56-avc1_1580000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 57
+https://vcdn1.rctiplus.id/vod/eds/291120_ikatan_cinta_eps_57/_/sa_hls/291120_ikatan_cinta_eps_57-avc1_1115000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 58-59
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e58_59/_/sa_hls/ikatan_cinta_e58_59-avc1_1206000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 6
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_231020_ikatan_cinta_eps_06/_/sa_hls/rctiplus_231020_ikatan_cinta_eps_06-avc1_1344000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 60
+https://vcdn1.rctiplus.id/vod/eds/011220_ikatan_cinta_eps_60/_/sa_hls/011220_ikatan_cinta_eps_60-avc1_1092000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 61
+https://vcdn1.rctiplus.id/vod/eds/021220_ic_ep_61/_/sa_hls/021220_ic_ep_61-avc1_1085000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 62-63
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_031220_ikatan_cinta_eps_62_63/_/sa_hls/rctiplus_031220_ikatan_cinta_eps_62_63-avc1_1082000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 64
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_041220_ikatan_cinta_eps_64_comp/_/sa_hls/rctiplus_041220_ikatan_cinta_eps_64_comp-avc1_1322000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 65
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_051220_ikatan_cinta_eps_65/_/sa_hls/rctiplus_051220_ikatan_cinta_eps_65-avc1_1166000=2-mp4a_128417_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 66
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e66/_/sa_hls/ikatan_cinta_e66-avc1_1117000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 67
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_071220_ikatan_cinta_eps_67/_/sa_hls/rctiplus_071220_ikatan_cinta_eps_67-avc1_1339000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 68-69
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e68_69/_/sa_hls/ikatan_cinta_e68_69-avc1_1078000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 70
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_091220_ic_eps_70/_/sa_hls/rctiplus_091220_ic_eps_70-avc1_1289000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 71-72
+https://vcdn1.rctiplus.id/vod/eds/101220_ic_ep_71_72/_/sa_hls/101220_ic_ep_71_72-avc1_1257000=2-mp4a_128410_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 73
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_111220_ikatan_cinta_73/_/sa_hls/rctiplus_111220_ikatan_cinta_73-avc1_1150000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 74
+https://vcdn1.rctiplus.id/vod/eds/121220_ic_74/_/sa_hls/121220_ic_74-avc1_1325000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 75-76
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_131220_ic_eps_75_76_comp/_/sa_hls/rctiplus_131220_ic_eps_75_76_comp-avc1_1495000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 7-8
+https://vcdn1.rctiplus.id/vod/eds/ikatan_cinta_e07_08/_/sa_hls/ikatan_cinta_e07_08-avc1_1349000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="IKATAN CINTA" tvg-logo="http://kamiselaluada.com/img/ikatancinta.png",Ikatan Cinta - Eps. 9
+https://vcdn1.rctiplus.id/vod/eds/rctiplus_251020_ikatan_cinta_eps_9/_/sa_hls/rctiplus_251020_ikatan_cinta_eps_9-avc1_1264000=2-mp4a_64000_eng=1.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9Ezkx-2W1qb9SpnaYvUXkDsHVcY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",Indosiar _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13",JakTV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b180fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/4g99P3r/dx.jpg",Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://1.bp.blogspot.com/-zoOOiEKPpsA/X0XAA27Y9wI/AAAAAAAAAA4/6v1te5UeNoUC8-pYC4UYG1zQ6DwKjLBSQCLcBGAsYHQ/s389/jasmin.png",JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13",JTV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b0fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/9GyyYfj/kbs.png",KBS
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/8z24hdy/kbs.jpg",KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_kompastv_big.png?v=2.0.0.13",Kompas TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="ALL SPORT",LaoChampa
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="ALL SPORT",LaoChampa2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/9s797qJ/lux.jpg",Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="http://kamiselaluada.com/img/magnatv.png",Magna TV CDG
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/967Ud6N.png",MBS (New!)
+http://203.162.235.41:16910
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_metrotv_big1.png?v=2.0.0.13",Metro TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qUUDKcQCDBOzImtqFHk7Lm5EA3A=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg",Modus _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13",MQTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13",MTATV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13",Muhammadiyah TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13",MUI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_mykids_big.png",My Kids _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="ALL SPORT" tvg-logo="http://kamiselaluada.com/img/nba.png",NBA
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_net_big1.png?v=2.0.0.13",Net. _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/RyqSMjV/nhk.png",NHK
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/jSJpXG0.png",NHK General (New!)
+http://203.162.235.41:16903
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/RyqSMjV/nhk.png",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_nhkworld_big.png?v=2.0.0.13",nhk world Japan _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/YP30Eir.png",NHK World Premium (New!)
+http://203.162.235.41:16901
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/fxYf9G0.png",Nippon TV (New!)
+http://203.162.235.41:16905
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/xCXCDkx/NJPW-World.png",NJPW
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/7K30y4v/ntv-news24.jpg",NTV News24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1",Nusantara TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="ALL SPORT",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:-1 group-title="ALL SPORT",Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13",Prambors _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/9NSBryy/q.jpg",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/9NSBryy/q.jpg",QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_rtv_big1.png?v=2.0.0.13",Rajawali TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ayMbxDkpvCI4EjlOEU3OCyuEnL8=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/da497a.png",RCTI _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/vTNb79cY/Red-Bull-TV-logo.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BZuLO6wbB3Wp25FuxyeCRNkJ35Q=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg",Riko The Series _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",Rodja TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13",RRI NET _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a0fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="ALL SPORT",Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16",Ruang Trampil _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b50fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Rusiaball2
+https://95-213-224-180.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Satellite TV! Арена
+https://95-213-224-179.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Satellite TV! Игра
+https://95-213-224-179.livesports24.online/migra.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Satellite TV! МАТЧ! Премьер
+https://95-213-224-179.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Satellite TV! Футбол 1
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Satellite TV! Футбол 2
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Satellite TV! Футбол 3
+https://95-213-224-179.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1280px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS Korea
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://pbs.twimg.com/profile_images/880680263742894080/MUuQgbht.jpg",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://pbs.twimg.com/profile_images/880680263742894080/MUuQgbht.jpg",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_seatoday_big.png?v=1",SEA Today _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Setanta Ukraina
+https://95-213-224-180.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Setanta(backUp)
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Swiss Sports
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_tawaftv_big.png",Tawaf TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/Xz3JwGT.png",TBS (Opt-2) (New!)
+http://203.162.235.41:16907
+#EXTINF:-1 group-title="ALL SPORT",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/f1JKnQK/mx.jpg",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/f1JKnQK/mx.jpg",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="http://kamiselaluada.com/img/transtv.png",Trans TV CDG
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NKbEP6ZZvC7Ql84bz6eqKl7R7Us=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png",Trans7 _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1e0cf1f47118daebc5b16269099ad7347
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_transtv_big1.png?v=2.0.0.13",TransTV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="News" tvg-logo="http://kamiselaluada.com/img/trt.png",TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_trtworld_small.png?coday",TRT World _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="ShareExt@SportLive" tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png",True Premier HD 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13",TV Edukasi _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d230fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/vgEnHX6.png",TV Tokyo (New!)
+http://203.162.235.41:16908
+#EXTINF:-1 group-title="Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 group-title="Astro Malaysia" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13",TV9 NU
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png",TVONE _DENS
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_tvri_big1.png?v=2.0.0.13",TVRI _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf0fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.postimg.cc/ydWxpHdd/16f01924b3993c0a6d70.jpg",TVRI HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="ALL SPORT",TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13",UChannel
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=f0935e4cd5920aa6c7c996a5ee53a70fdfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="ALL SPORT",UFC1
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="ALL SPORT",UFC2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Uni Sports
+http://unisportslive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13",Usee Photo _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e82650fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="USEETV" tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13",UseePrime _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c40fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/LCMktNT/wni.png",WNI Japan Weather
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.ibb.co/LCMktNT/wni.png",WNI Japan Weather
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/yBhmnvz/ytn.jpg",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/ypm3MZN/ytn.png",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/ypm3MZN/ytn.png",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Беларусь 5 HD
+https://95-213-224-179.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",КХЛ HD
+https://95-213-224-179.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Матч (Champions League)
+http://a3569456020-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/playlist.m3u8?utcstart=1580464800
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Матч (Match TV Russia)
+http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Матч!
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd?checkedby
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",МАТЧ! Боец
+https://95-213-224-179.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",МАТЧ! Планета
+https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",МАТЧ! Страна
+https://95-213-224-179.livesports24.online/mnashsport.m3u8
+#EXTINF:-1 group-title="ALL SPORT",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8?checkedby
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Спорт 1
+https://95-213-224-179.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Унiан
+https://95-213-224-179.livesports24.online/uniantv.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Футбол 3 ua
+https://95-213-224-179.livesports24.online/football3ua.m3u8
+#EXTINF:-1 group-title="Live Champions League" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",Футбол RU
+https://95-213-224-179.livesports24.online/footballrus.m3u8
